@@ -10,7 +10,7 @@ export const INITIAL_FARMER_PROFILE = {
   crops: ["cotton", "soybean"],
   soilType: "Medium Black Cotton Soil (काळी कसदार जमीन)",
   irrigation: "Drip Irrigation + Rainfed (ठिबक व कोरडवाहू)",
-  avatar: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80"
+  avatar: "https://media.istockphoto.com/id/2206670537/photo/rural-indian-farmer-turban-carrying-a-hoe-on-shoulder-and-using-smartphone-in-agriculture.jpg?s=612x612&w=0&k=20&c=Jlcz-FpHBiWBsNaFTtlyCpM2zpipKML1tMWD5i0FrvA="
 };
 
 export const CONSULTANT_PROFILE = {
